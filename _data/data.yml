@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: {{ site.baseurl }}/assets/PDFs/VictorMartinezSimon_en.pdf
+    pdf: VictorMartinezSimon_en.pdf
 
     languages:
       - idiom: Spanish
