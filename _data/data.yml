@@ -67,36 +67,36 @@ education:
         Learn how to program videogames using C++ and Ogre.
         Also lear Unity3D.
 
-experiences:
-    - role: Game developer for slots machines on C++
-      time: 2017 - Present
-      company: Recreativos Franco, Madrid
-      details: |
-        Develop and maintain games for a machine for Spainish market. 
-      - Improve common code in all the games.
-      - Improve on-site Game Engine.
-      - Develop some conections with machine hardware.
-      - Develop conections with APIs on Internet using RabbitMQ
-      |
-      Maintain and develop the Jenkins of the team:
-      - Develop tools for Art team to run the games in their own PCs.
-      - Develop tools for Q&A team to download art files or executables.
-      - Develop tools for Development tesm to help to improve code.
-
-    - role: Game Developer for Android and IOs with Unity3D
-      time: 2014 - 2016
-      company: Lingokids, Madrid
-      details: |
-      Develop games using Unity3D:
-      - Develop some of the different games in the App.
-      - Develop some internal tools for designers.
-      - Develop the connection between App and Backend, like user managment, analytics, roles...
-      - Develop the system to download  data and assets for different games.
-      |
-      Development of the Backend on Ruby on Rails:
-    - Help to maintain the code of the Backend.
-    - Develop the connection with different Apps stores.
-    - Develop different test cases.
+#experiences:
+#    - role: Game developer for slots machines on C++
+#      time: 2017 - Present
+#      company: Recreativos Franco, Madrid
+#      details: |
+#        Develop and maintain games for a machine for Spainish market. 
+#      - Improve common code in all the games.
+#      - Improve on-site Game Engine.
+#      - Develop some conections with machine hardware.
+#      - Develop conections with APIs on Internet using RabbitMQ
+#      |
+#      Maintain and develop the Jenkins of the team:
+#      - Develop tools for Art team to run the games in their own PCs.
+#      - Develop tools for Q&A team to download art files or executables.
+#      - Develop tools for Development tesm to help to improve code.
+#
+#    - role: Game Developer for Android and IOs with Unity3D
+#      time: 2014 - 2016
+#      company: Lingokids, Madrid
+#      details: |
+#      Develop games using Unity3D:
+#      - Develop some of the different games in the App.
+#      - Develop some internal tools for designers.
+#      - Develop the connection between App and Backend, like user managment, analytics, roles...
+#      - Develop the system to download  data and assets for different games.
+#      |
+#      Development of the Backend on Ruby on Rails:
+#    - Help to maintain the code of the Backend.
+#    - Develop the connection with different Apps stores.
+#    - Develop different test cases.
 
 projects:
     title: Projects
