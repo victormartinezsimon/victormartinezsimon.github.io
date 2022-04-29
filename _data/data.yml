@@ -99,51 +99,57 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the games I have already developed in different Game Jams. All games developed using Unity3D
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Call of Duality
+        link: "#https://globalgamejam.org/2022/games/placeholder-3-1"
+        time: 2022
+        tagline: "Theme: Duality"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: El botín de Palaverde
+        link: "#https://globalgamejam.org/2021/games/el-bot%C3%ADn-de-palaverde-0"
+        time: 2021
+        tagline: "Theme: Lost and found"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Yearbook 2020
+        link: "#https://globalgamejam.org/2020/games/yearbook20-1"
+        time: 2020
+        tagline: "Theme: Repair"
+      
+      - title: Your last day in April
+        link: "#https://globalgamejam.org/2019/games/your-last-day-april"
+        time: 2019
+        tagline: "Theme: What home means to you"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: EsTeam-3
+        link: "#https://globalgamejam.org/2018/games/esteam-3"
+        time: 2018
+        tagline: "Theme: Transmision"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: The Tesla Experiencie
+        link: "#http://globalgamejam.org/2017/games/tte"
+        time: 2017
+        tagline: "Theme: Waves"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: BomBallRoom
+        link: "#http://www.kongregate.com/games/chiki40/bomballroom"
+        time: 2016
+        tagline: "Theme: One room"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: OCD
+        link: "#http://globalgamejam.org/2016/games/ocd-3"
+        time: 2016
+        tagline: "Theme: Ritual"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Fly, you fools!
+        link: "#http://globalgamejam.org/2015/games/fly-you-fools"
+        time: 2016
+        tagline: "Theme: What we do now?"
+
+      - title: OCD
+        link: "#http://globalgamejam.org/2016/games/ocd-3"
+        time: 2016
+        tagline: "Theme: Ritual"
 
 skills:
     title: Skills &amp; Proficiency
