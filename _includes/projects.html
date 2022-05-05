@@ -31,6 +31,10 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
+      {% if project.time %}
+      - Year: <span class="project-tagline">{{ project.time }}</span>
+      {% time %}
+
     </div><!--//item-->
   {% endfor %}
 
