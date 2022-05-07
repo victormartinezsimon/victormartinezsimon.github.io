@@ -76,7 +76,8 @@ experiences:
         - Improve common code in all the games.
         - Improve on-site Game Engine.
         - Develop some conections with machine hardware.
-        - Develop conections with APIs on Internet using RabbitMQ
+        - Develop conections with APIs on Internet using RabbitMQ 
+        \
         Maintain and develop the Jenkins of the team:
         - Develop tools for Art team to run the games in their own PCs.
         - Develop tools for Q&A team to download art files or executables.
@@ -90,7 +91,8 @@ experiences:
         - Develop some of the different games in the App.
         - Develop some internal tools for designers.
         - Develop the connection between App and Backend, like user managment, analytics, roles...
-        - Develop the system to download  data and assets for different games.
+        - Develop the system to download  data and assets for different games.  
+        
         Development of the Backend on Ruby on Rails:
         - Help to maintain the code of the Backend.
         - Develop the connection with different Apps stores.
@@ -99,7 +101,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Some of the games I have already developed in different Game Jams. All games developed using Unity3D
+      All all this projects are developed in different GameJams using Unity3D.
     assignments:
       - title: Call of Duality
         link: "#https://globalgamejam.org/2022/games/placeholder-3-1"
