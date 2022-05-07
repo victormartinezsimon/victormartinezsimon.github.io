@@ -72,12 +72,12 @@ experiences:
       time: 2017 - Present
       company: Recreativos Franco, Madrid
       details: |
-        Develop and maintain games for a machine for Spainish market. 
+      Develop and maintain games for a machine for Spainish market:
         - Improve common code in all the games.
         - Improve on-site Game Engine.
         - Develop some conections with machine hardware.
         - Develop conections with APIs on Internet using RabbitMQ  
-              
+        
         Maintain and develop the Jenkins of the team:
         - Develop tools for Art team to run the games in their own PCs.
         - Develop tools for Q&A team to download art files or executables.
