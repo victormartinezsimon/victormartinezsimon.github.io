@@ -68,8 +68,14 @@ education:
         Also lear Unity3D.
 
 experiences:
+    - role: Gameplay developer for slots machines on C++
+      time: 2022 - Present
+      company: Activision
+      details: |
+        Gameplay programmer on Warzone Mobile
+        
     - role: Game developer for slots machines on C++
-      time: 2017 - Present
+      time: 2017 - 2022
       company: Recreativos Franco, Madrid
       details: |
         Develop and maintain games for a machine for Spainish market:
